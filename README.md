@@ -1,6 +1,9 @@
 # LearningCorner
 Study website
 
+our planing 
+
+
 About.html - Adecel
 
 Blog-Template.html - Ntobeko
